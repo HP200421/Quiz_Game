@@ -1,6 +1,6 @@
 # Quiz Game
 
-This is a simple quiz game created using HTML, CSS, and JavaScript. It allows users to test their knowledge by answering multiple-choice questions.
+Quiz game created using HTML, CSS, and JavaScript. It allows users to test their knowledge by answering multiple-choice questions.
 
 ## Getting Started
 
